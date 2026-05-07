@@ -6,3 +6,5 @@ function ServiceTimes(){
         </section>
     );
 }
+
+export default ServiceTimes;
