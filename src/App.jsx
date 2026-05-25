@@ -9,8 +9,7 @@ function App(){
     <div>
       <Navbar />
       <ServiceTimes />
-      <Hero /> 
-      <h1>bth</h1>
+      <Hero />
     </div>
   );
 }
